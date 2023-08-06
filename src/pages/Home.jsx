@@ -7,7 +7,6 @@ import { AiOutlineUser, AiOutlineHeart } from "react-icons/ai";
 import { FiMessageSquare, FiFolder, FiShoppingCart } from "react-icons/fi";
 import { Link } from "react-router-dom";
 import logo from '../images/logo.png'
-//const logo = require('../images/logo.png')
 
 const Home = () => {
   const menus = [
