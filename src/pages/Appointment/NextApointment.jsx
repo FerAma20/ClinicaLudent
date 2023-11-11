@@ -4,9 +4,11 @@ import ListAppointment from "./ListAppointment";
 
 const NextAppointment = () => {
   return (
-    <div div className="container mx-auto max-w-screen-lg pt-8 ">
-    
-        <HeaderAppointment/>
+    <div className="container  mx-auto pt-5">
+        <br/>
+        <br/>
+        <br/>
+        <HeaderAppointment/>  
         <ListAppointment/>
     </div>
    
